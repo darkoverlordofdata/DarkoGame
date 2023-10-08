@@ -1,0 +1,32 @@
+[
+  {
+    "directory": "/home/darko/Documents/GitHub/DarkoGame/build",
+    "command": "/usr/bin/clang -DDarkoGameKit_EXPORTS -I/usr/GNUstep/Local/Library/Headers -I/usr/local/GNUstep/System/Library/Headers -x objective-c  -O2 -pipe -std=c18 -Wall -Wno-psabi -Wno-import -Wno-nullability-completeness -fobjc-runtime=gnustep-2.1 -fblocks -fexceptions -fobjc-exceptions -fPIC -fstack-protector-strong -fno-strict-aliasing -fconstant-string-class=NSConstantString -DOBJC_RUNTIME=21 -DGNUSTEP -DGNUSTEP_BASE_LIBRARY=1 -DGNU_GUI_LIBRARY=1 -DGNUSTEP_RUNTIME=1 -D_NONFRAGILE_ABI=1 -D_NATIVE_OBJC_EXCEPTIONS -DGSWARN -DGSDIAGNOSE -g -fPIC -std=gnu17 -o CMakeFiles/DarkoGameKit.dir/Source/DGKGame.m.o -c /home/darko/Documents/GitHub/DarkoGame/Source/DGKGame.m",
+    "file": "/home/darko/Documents/GitHub/DarkoGame/Source/DGKGame.m"
+  },
+  {
+    "directory": "/home/darko/Documents/GitHub/DarkoGame/build",
+    "command": "/usr/bin/clang -DDarkoGameKit_EXPORTS -I/usr/GNUstep/Local/Library/Headers -I/usr/local/GNUstep/System/Library/Headers -x objective-c  -O2 -pipe -std=c18 -Wall -Wno-psabi -Wno-import -Wno-nullability-completeness -fobjc-runtime=gnustep-2.1 -fblocks -fexceptions -fobjc-exceptions -fPIC -fstack-protector-strong -fno-strict-aliasing -fconstant-string-class=NSConstantString -DOBJC_RUNTIME=21 -DGNUSTEP -DGNUSTEP_BASE_LIBRARY=1 -DGNU_GUI_LIBRARY=1 -DGNUSTEP_RUNTIME=1 -D_NONFRAGILE_ABI=1 -D_NATIVE_OBJC_EXCEPTIONS -DGSWARN -DGSDIAGNOSE -g -fPIC -std=gnu17 -o CMakeFiles/DarkoGameKit.dir/Source/OpenGL.m.o -c /home/darko/Documents/GitHub/DarkoGame/Source/OpenGL.m",
+    "file": "/home/darko/Documents/GitHub/DarkoGame/Source/OpenGL.m"
+  },
+  {
+    "directory": "/home/darko/Documents/GitHub/DarkoGame/build",
+    "command": "/usr/bin/clang -DDarkoGameKit_EXPORTS -I/usr/GNUstep/Local/Library/Headers -I/usr/local/GNUstep/System/Library/Headers -x objective-c  -O2 -pipe -std=c18 -Wall -Wno-psabi -Wno-import -Wno-nullability-completeness -fobjc-runtime=gnustep-2.1 -fblocks -fexceptions -fobjc-exceptions -fPIC -fstack-protector-strong -fno-strict-aliasing -fconstant-string-class=NSConstantString -DOBJC_RUNTIME=21 -DGNUSTEP -DGNUSTEP_BASE_LIBRARY=1 -DGNU_GUI_LIBRARY=1 -DGNUSTEP_RUNTIME=1 -D_NONFRAGILE_ABI=1 -D_NATIVE_OBJC_EXCEPTIONS -DGSWARN -DGSDIAGNOSE -g -fPIC -std=gnu17 -o CMakeFiles/DarkoGameKit.dir/Source/content/DGKResourceManager.m.o -c /home/darko/Documents/GitHub/DarkoGame/Source/content/DGKResourceManager.m",
+    "file": "/home/darko/Documents/GitHub/DarkoGame/Source/content/DGKResourceManager.m"
+  },
+  {
+    "directory": "/home/darko/Documents/GitHub/DarkoGame/build",
+    "command": "/usr/bin/clang -DDarkoGameKit_EXPORTS -I/usr/GNUstep/Local/Library/Headers -I/usr/local/GNUstep/System/Library/Headers -x objective-c  -O2 -pipe -std=c18 -Wall -Wno-psabi -Wno-import -Wno-nullability-completeness -fobjc-runtime=gnustep-2.1 -fblocks -fexceptions -fobjc-exceptions -fPIC -fstack-protector-strong -fno-strict-aliasing -fconstant-string-class=NSConstantString -DOBJC_RUNTIME=21 -DGNUSTEP -DGNUSTEP_BASE_LIBRARY=1 -DGNU_GUI_LIBRARY=1 -DGNUSTEP_RUNTIME=1 -D_NONFRAGILE_ABI=1 -D_NATIVE_OBJC_EXCEPTIONS -DGSWARN -DGSDIAGNOSE -g -fPIC -std=gnu17 -o CMakeFiles/DarkoGameKit.dir/Source/graphics/DGKShader.m.o -c /home/darko/Documents/GitHub/DarkoGame/Source/graphics/DGKShader.m",
+    "file": "/home/darko/Documents/GitHub/DarkoGame/Source/graphics/DGKShader.m"
+  },
+  {
+    "directory": "/home/darko/Documents/GitHub/DarkoGame/build",
+    "command": "/usr/bin/clang -DDarkoGameKit_EXPORTS -I/usr/GNUstep/Local/Library/Headers -I/usr/local/GNUstep/System/Library/Headers -x objective-c  -O2 -pipe -std=c18 -Wall -Wno-psabi -Wno-import -Wno-nullability-completeness -fobjc-runtime=gnustep-2.1 -fblocks -fexceptions -fobjc-exceptions -fPIC -fstack-protector-strong -fno-strict-aliasing -fconstant-string-class=NSConstantString -DOBJC_RUNTIME=21 -DGNUSTEP -DGNUSTEP_BASE_LIBRARY=1 -DGNU_GUI_LIBRARY=1 -DGNUSTEP_RUNTIME=1 -D_NONFRAGILE_ABI=1 -D_NATIVE_OBJC_EXCEPTIONS -DGSWARN -DGSDIAGNOSE -g -fPIC -std=gnu17 -o CMakeFiles/DarkoGameKit.dir/Source/graphics/DGKSpriteRenderer.m.o -c /home/darko/Documents/GitHub/DarkoGame/Source/graphics/DGKSpriteRenderer.m",
+    "file": "/home/darko/Documents/GitHub/DarkoGame/Source/graphics/DGKSpriteRenderer.m"
+  },
+  {
+    "directory": "/home/darko/Documents/GitHub/DarkoGame/build",
+    "command": "/usr/bin/clang -DDarkoGameKit_EXPORTS -I/usr/GNUstep/Local/Library/Headers -I/usr/local/GNUstep/System/Library/Headers -x objective-c  -O2 -pipe -std=c18 -Wall -Wno-psabi -Wno-import -Wno-nullability-completeness -fobjc-runtime=gnustep-2.1 -fblocks -fexceptions -fobjc-exceptions -fPIC -fstack-protector-strong -fno-strict-aliasing -fconstant-string-class=NSConstantString -DOBJC_RUNTIME=21 -DGNUSTEP -DGNUSTEP_BASE_LIBRARY=1 -DGNU_GUI_LIBRARY=1 -DGNUSTEP_RUNTIME=1 -D_NONFRAGILE_ABI=1 -D_NATIVE_OBJC_EXCEPTIONS -DGSWARN -DGSDIAGNOSE -g -fPIC -std=gnu17 -o CMakeFiles/DarkoGameKit.dir/Source/graphics/DGKTexture2D.m.o -c /home/darko/Documents/GitHub/DarkoGame/Source/graphics/DGKTexture2D.m",
+    "file": "/home/darko/Documents/GitHub/DarkoGame/Source/graphics/DGKTexture2D.m"
+  }
+  ]
